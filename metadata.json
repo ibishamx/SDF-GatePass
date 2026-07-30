@@ -1,0 +1,6 @@
+{
+  "name": "Saleem Daal Factory - Gate Pass Management System",
+  "description": "Enterprise Gate Pass Management System for Saleem Daal Factory managing IGP, OGP, vehicles, weighment, masters, printing, reporting, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
